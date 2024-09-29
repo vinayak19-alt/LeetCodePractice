@@ -12,6 +12,7 @@
 | [0002-add-two-numbers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0009-palindrome-number) |
+| [0371-sum-of-two-integers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
