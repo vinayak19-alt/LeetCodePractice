@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
