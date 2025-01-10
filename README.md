@@ -28,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -90,9 +93,11 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
