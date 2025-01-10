@@ -4,7 +4,7 @@ class Solution {
     }
     public int helper(int[] nums, int target, int index, int sum){
         if(index==nums.length){
-            if(sum == target){
+            if(sum==target){
                 return 1;
             }else{
                 return 0;
