@@ -20,6 +20,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0795-k-th-symbol-in-grammar) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -94,10 +95,15 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
