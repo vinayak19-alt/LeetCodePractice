@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
