@@ -94,6 +94,7 @@
 | [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@
 | [0125-valid-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Backtracking
 |  |
