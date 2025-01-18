@@ -35,6 +35,7 @@
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
