@@ -33,6 +33,7 @@
 | [0051-n-queens](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
+| [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
@@ -97,6 +98,7 @@
 | [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
