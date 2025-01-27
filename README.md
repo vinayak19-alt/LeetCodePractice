@@ -38,6 +38,7 @@
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0037-sudoku-solver](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
@@ -143,4 +146,8 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
