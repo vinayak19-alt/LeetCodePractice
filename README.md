@@ -37,6 +37,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -48,6 +49,7 @@
 | [0037-sudoku-solver](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
