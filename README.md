@@ -40,6 +40,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0783-search-in-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
