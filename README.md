@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0783-search-in-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
