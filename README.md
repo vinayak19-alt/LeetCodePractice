@@ -133,6 +133,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,4 +167,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
