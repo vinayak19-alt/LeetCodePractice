@@ -36,6 +36,7 @@
 | [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
+| [0724-find-pivot-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -162,5 +163,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
