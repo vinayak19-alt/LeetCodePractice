@@ -12,6 +12,7 @@
 | [0002-add-two-numbers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0795-k-th-symbol-in-grammar) |
@@ -159,6 +160,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
