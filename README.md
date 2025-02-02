@@ -35,6 +35,7 @@
 | [0039-combination-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 ## Tree
@@ -164,6 +166,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0279-perfect-squares](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
