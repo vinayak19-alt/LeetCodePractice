@@ -43,6 +43,7 @@
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -123,6 +124,7 @@
 | [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
@@ -161,6 +164,7 @@
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1236-n-th-tribonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sorting
 |  |
 | ------- |
