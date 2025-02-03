@@ -141,6 +141,7 @@
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1250-longest-common-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
@@ -172,6 +173,7 @@
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sorting
 |  |
