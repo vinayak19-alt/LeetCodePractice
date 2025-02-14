@@ -42,6 +42,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [1105-uncrossed-lines](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1105-uncrossed-lines) |
@@ -167,6 +168,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -204,6 +206,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 ## Memoization
 |  |
