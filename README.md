@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [0969-number-of-recent-calls](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0969-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -216,4 +217,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
