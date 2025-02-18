@@ -76,11 +76,13 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0783-search-in-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0783-search-in-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
