@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
@@ -82,6 +83,7 @@
 | ------- |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0904-leaf-similar-trees) |
 ## Design
@@ -102,6 +105,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
 ## Bit Manipulation
 |  |
@@ -239,4 +243,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
