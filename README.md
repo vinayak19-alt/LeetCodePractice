@@ -13,6 +13,7 @@
 | [0007-reverse-integer](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0795-k-th-symbol-in-grammar) |
@@ -39,6 +40,7 @@
 | [0064-minimum-path-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
+| [0189-rotate-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
@@ -130,6 +132,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
