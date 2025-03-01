@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0051-n-queens) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
