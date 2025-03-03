@@ -35,6 +35,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0063-unique-paths-ii) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0063-unique-paths-ii) |
