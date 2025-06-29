@@ -56,6 +56,7 @@
 | [0735-asteroid-collision](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1105-uncrossed-lines](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1105-uncrossed-lines) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -147,6 +148,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
+| [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -230,6 +232,7 @@
 | [0088-merge-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
+| [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search Tree
 |  |
