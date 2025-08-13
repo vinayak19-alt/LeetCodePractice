@@ -1,13 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int k=0;
-        for(int i=0; i<nums.length-1; i++){
-            if(nums[i] == nums[i+1]){
-                k++;
-            }else{
-                nums[i-k+1] = nums[i+1];
-            }
+        Set<Integer> set = new LinkedHashSet<>();
+        int j=0;
+        for(int i=0; i<nums.length; i++){
+            set.add(nums[i]);
         }
-        return nums.length-k;
+        for(int num : set){
+            nums[j] = num;
+            j++;
+        }
+        return set.size();
     }
 }
