@@ -53,6 +53,7 @@
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0735-asteroid-collision) |
