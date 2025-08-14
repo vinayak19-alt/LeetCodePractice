@@ -4,14 +4,10 @@ class Solution {
         while(i < nums.length){
             if(nums[j] == 0 && nums[i] != 0){
                 swap(nums, j, i);
-                // i++;
                 j++;
             }else if (nums[j] != 0){
                 j++;
             }
-            // else if (nums[i] == 0){
-            //     i++;
-            // }
             i++;
         }
     }
