@@ -46,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +130,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0795-k-th-symbol-in-grammar) |
