@@ -38,6 +38,7 @@
 | [0039-combination-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0064-minimum-path-sum) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
@@ -225,6 +227,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0063-unique-paths-ii) |
