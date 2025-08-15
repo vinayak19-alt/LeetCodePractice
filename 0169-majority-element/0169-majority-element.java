@@ -1,15 +1,26 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
+        //usinf Boyer-Moores voting algorithm
+        int count=0, element =-1;
         int n = nums.length;
         for(int i=0; i<nums.length; i++){
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-        }
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            if(entry.getValue() > n/2 ){
-                return entry.getKey();
+            if(count == 0){
+                element = nums[i];
+                count=1;
+            }else{
+                if(nums[i] ==  element){
+                    count++;
+                }else{
+                    count--;
+                }
             }
         }
-        return -1;
+        count=0;
+        for(int i=0; i<nums.length; i++){
+            if(nums[i] == element){
+                count++;
+            }
+        }
+        return (count > n/2) ? element : -1;
     }
 }
