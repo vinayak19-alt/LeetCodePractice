@@ -48,6 +48,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
@@ -79,6 +80,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -244,6 +247,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
@@ -297,5 +301,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
