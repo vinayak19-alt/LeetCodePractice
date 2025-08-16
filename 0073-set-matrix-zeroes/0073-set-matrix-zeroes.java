@@ -13,7 +13,7 @@ class Solution {
         }
         for(int i=0; i<matrix.length; i++){
             for(int j=0; j<matrix[0].length; j++){
-                if(row[i]==1 || col[j]==1){
+                if(row[i] == 1 || col[j] == 1){
                     matrix[i][j]=0;
                 }
             }
