@@ -1,12 +1,11 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        //using Kadane's ALgorithm
-        int ans = nums[0];
-        int maxSum = nums[0];
+        int res=nums[0];
+        int max = nums[0];
         for(int i=1; i<nums.length; i++){
-            ans = Math.max(ans + nums[i], nums[i]);
-            maxSum = Math.max(maxSum, ans);
+            max = Math.max(nums[i], max+nums[i]);
+            res = Math.max(res, max);
         }
-        return maxSum;
+        return res;
     }
 }
