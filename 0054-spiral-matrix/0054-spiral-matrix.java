@@ -10,7 +10,7 @@ class Solution {
             for(int j=i+1; j<=n; j++){
                 list.add(matrix[j][m]);
             }
-            if(n!=i){
+            if(n != i){
                 for(int j=m-1; j>=i; j--){
                     list.add(matrix[n][j]);
                 }
@@ -22,7 +22,7 @@ class Solution {
             }
             m--;
             n--;
-            if (m < i + 1 || n < i + 1) break;
+            if(m < i+1 || n < i+1) break;;
         }
         return list;
     }
