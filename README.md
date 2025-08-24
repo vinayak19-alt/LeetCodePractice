@@ -51,6 +51,7 @@
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
@@ -320,4 +322,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
