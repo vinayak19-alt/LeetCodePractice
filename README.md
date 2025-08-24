@@ -57,6 +57,7 @@
 | [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
@@ -90,6 +91,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
@@ -267,6 +269,7 @@
 | [0088-merge-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
 | [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
@@ -321,6 +324,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
 ## Union Find
 |  |
