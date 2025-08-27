@@ -8,7 +8,7 @@ class Solution {
                 m++;
                 i++;
                 j++;
-            }else if(i == m || nums1[i] == 0){
+            }else if(i == m && nums1[i] == 0){
                 nums1[m] = nums2[j];
                 m++;
                 j++;
