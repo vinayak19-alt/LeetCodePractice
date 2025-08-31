@@ -1,26 +1,25 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i=0, j=0;
-        while(i<nums1.length && j<nums2.length){
-            if(nums1[i] > nums2[j] && m < nums1.length){
-                shift(nums1, i);
+        while(i< nums1.length && j< nums2.length){
+            if(nums1[i] > nums2[j] && m< nums1.length){
+                swap(nums1, i);
                 nums1[i] = nums2[j];
-                m++;
                 i++;
                 j++;
-            }else if(i == m && nums1[i] == 0){
+            }else if(i == m && nums1[m] == 0){
                 nums1[m] = nums2[j];
                 m++;
                 j++;
-            }else{
+            }
+            else if(nums1[i] <= nums2[j]){
                 i++;
             }
         }
     }
-    private void shift(int[] nums1, int i){
-        for(int j = nums1.length-1; j>i; j--){
-            nums1[j] = nums1[j-1];
+    public void swap(int[] arr, int i){
+        for(int j = arr.length-2; j>=i; j--){
+            arr[j+1] = arr[j];
         }
-        nums1[i] = 0;
     }
 }
