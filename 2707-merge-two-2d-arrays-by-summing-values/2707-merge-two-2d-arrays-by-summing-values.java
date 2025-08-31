@@ -1,19 +1,29 @@
 class Solution {
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
-        Map<Integer, Integer> map = new TreeMap<>();
-        int k=0;
-        for(int i=0; i< nums1.length; i++){
-            map.put(nums1[i][0], map.getOrDefault(nums1[i][0], 0) + nums1[i][1]);
+        List<int[]> list = new ArrayList<>();
+        int i=0, j=0;
+        while(i < nums1.length && j < nums2.length){
+            if(nums1[i][0] == nums2[j][0]){
+                int sum = nums1[i][1] + nums2[j][1];
+                list.add(new int[]{nums1[i][0], sum});
+                i++;
+                j++;
+            }else if(nums1[i][0] < nums2[j][0]){
+                list.add(new int[]{nums1[i][0], nums1[i][1]});
+                i++;
+            }else {
+                list.add(new int[]{nums2[j][0], nums2[j][1]});
+                j++;
+            }
         }
-        for(int i=0; i< nums2.length; i++){
-            map.put(nums2[i][0], map.getOrDefault(nums2[i][0], 0) + nums2[i][1]);
+        while(i< nums1.length){
+            list.add(new int[]{nums1[i][0], nums1[i][1]});
+            i++;
         }
-        int[][] arr = new int[map.size()][2];
-        for(Map.Entry<Integer, Integer> entry: map.entrySet()){
-            arr[k][0] = entry.getKey();
-            arr[k][1] = entry.getValue();
-            k++;
+        while(j < nums2.length){
+            list.add(new int[]{nums2[j][0], nums2[j][1]});
+            j++;
         }
-        return arr;
+        return list.toArray(new int[list.size()][]);
     }
 }
