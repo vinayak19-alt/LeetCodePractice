@@ -1,33 +1,30 @@
 class Solution {
     public int[] sortArrayByParityII(int[] nums) {
-        // int i=0, j=i+1;
-        // while(j < nums.length){
-        //     if((nums[i]%2==0 && i%2!=0 && nums[j]%2!=0) || (nums[i]%2!=0 && i%2==0 && nums[j]%2==0)){
-        //         int num = nums[i];
-        //         nums[i] = nums[j];
-        //         nums[j] = num;
-        //         i++;
-        //         j=i+1;;
-        //     }else if((nums[i]%2==0 && i%2!=0 && nums[j]%2==0) || (nums[i]%2!=0 && i%2==0 && nums[j]%2!=0)){
-        //         j++;
-        //     }else{
-        //         i++;
-        //         j++;
-        //     }
-        // }
-        // return nums;
-        int e=0, o=1;
-        int[] arr = new int[nums.length];
-        for(int num : nums){
-            if(num % 2 ==0){
-                arr[e] = num;
-                e += 2;
-            }
-            if(num %2 !=0){
-                arr[o] = num;
-                o += 2;
+        int i=0, j=1;
+        while(j < nums.length){
+            if((isEven(i) && !isEven(nums[i]) && isEven(nums[j])) || (!isEven(i) && isEven(nums[i]) && !isEven(nums[j]))){
+                swap(nums, i, j);
+                i++;
+                j=i+1;
+            }else if((!isEven(i) && isEven(nums[i]) && isEven(nums[j])) || (isEven(i) && !isEven(nums[i]) && !isEven(nums[j]))){
+                j++;
+            }else {
+                i++;
+                j++;
             }
         }
-        return arr;
+        return nums;
+    }
+    public boolean isEven(int num){
+        if(num % 2 == 0){
+            return true;
+        }else{
+            return false;
+        }
+    }
+    public void swap(int[] arr, int i, int j){
+        int num = arr[i];
+        arr[i]=arr[j];
+        arr[j] = num;
     }
 }
