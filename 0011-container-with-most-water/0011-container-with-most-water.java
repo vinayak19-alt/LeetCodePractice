@@ -1,5 +1,7 @@
 class Solution {
     public int maxArea(int[] height) {
+        //for this we move the pointer that is pointing to the lesser number in the array
+        //to maximise the area
         int i=0, j=height.length-1;
         int maxArea=0;
         while(i < j){
