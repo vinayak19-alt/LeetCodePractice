@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
+| [0556-next-greater-element-iii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0556-next-greater-element-iii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1236-n-th-tribonacci-number) |
@@ -190,6 +191,7 @@
 | [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0958-sort-array-by-parity-ii) |
@@ -226,6 +228,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
