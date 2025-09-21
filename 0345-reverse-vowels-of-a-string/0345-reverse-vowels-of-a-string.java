@@ -1,24 +1,33 @@
 class Solution {
     public String reverseVowels(String s) {
-        char temp;
-        char[] arr = s.toCharArray();
-        int first =0;
-        int last = arr.length-1;
-        String vowels = "aeiouAEIOU";
-        while(first<last){
-            while(first < last && vowels.indexOf(arr[first]) == -1){
-                first++;
+        int i=0, j=s.length()-1;
+        StringBuilder sb = new StringBuilder(s);
+        while(i < j){
+            if(isVowel(sb.charAt(i)) && isVowel(sb.charAt(j))){
+                swap(sb, i, j);
+                i++;
+                j--;
+            }else if(!isVowel(sb.charAt(i)) && isVowel(sb.charAt(j))){
+                i++;
+            }else if(isVowel(sb.charAt(i)) && !isVowel(sb.charAt(j))){
+                j--;
+            }else{
+                i++;
+                j--;
             }
-            while(first < last && vowels.indexOf(arr[last]) == -1){
-                last--;
-            }
-            temp = arr[first];
-            arr[first] = arr[last];
-            arr[last]=temp;
-            first++;
-            last--;
         }
-        String newStr = new String(arr);
-        return newStr;
+        return sb.toString();
+    }
+    public boolean isVowel(char c){
+        char ch = Character.toLowerCase(c);
+        if(ch == 'a' || ch =='e' || ch == 'i' || ch == 'o' || ch == 'u'){
+            return true;
+        }
+        return false;
+    }
+    public void swap(StringBuilder sb, int i, int j){
+        char c = sb.charAt(i);
+        sb.setCharAt(i, sb.charAt(j));
+        sb.setCharAt(j, c);
     }
 }
