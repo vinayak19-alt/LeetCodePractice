@@ -198,6 +198,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0958-sort-array-by-parity-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -238,6 +239,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
@@ -317,6 +319,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0735-asteroid-collision) |
+| [2128-reverse-prefix-of-word](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 ## Memoization
 |  |
