@@ -206,6 +206,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
