@@ -33,7 +33,6 @@ class Solution {
                 }
             }
         }
-        String str = new String(arr);
-        return str.trim();
+        return new String(arr);
     }
 }
