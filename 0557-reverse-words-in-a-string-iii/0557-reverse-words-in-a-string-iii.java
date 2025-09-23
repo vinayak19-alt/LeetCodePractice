@@ -1,6 +1,5 @@
 class Solution {
     public String reverseWords(String s) {
-        s+=" ";
         char[] arr = s.toCharArray();
         int i=0;
         int j=i;
@@ -17,6 +16,15 @@ class Solution {
                 }
                 if(i<arr.length-1){
                     j=i+1;
+                }
+            }
+            if(i == arr.length-1){
+                while(j < k){
+                    char temp = arr[j];
+                    arr[j] = arr[k];
+                    arr[k] = temp;
+                    j++;
+                    k--;
                 }
             }
         }
