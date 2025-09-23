@@ -1,27 +1,22 @@
 class Solution {
-    public boolean validPalindrome(String str) {
-        int s=0;
-        int e = str.length()-1;
-        while(s<e){
-            if(str.charAt(s) != str.charAt(e)){
-                String skipL = str.substring(s+1, e+1);
-                String skipR = str.substring(s, e);
-                return (reverse(skipL) || reverse(skipR));
+    public boolean validPalindrome(String s) {
+        int i=0, j=s.length()-1;
+        while(i < j){
+            if(s.charAt(i) != s.charAt(j)){
+                return helper(s, i+1, j) || helper(s, i, j-1);
             }
-            s++;
-            e--;
+            i++;
+            j--;
         }
         return true;
     }
-    public boolean reverse(String s){
-        int start=0;
-        int end = s.length()-1;
-        while(start<end){
-            if(s.charAt(start) != s.charAt(end)){
+    public boolean helper(String s, int i, int j){
+        while(i < j){
+            if(s.charAt(i) != s.charAt(j)){
                 return false;
             }
-            start++;
-            end--;
+            i++;
+            j--;
         }
         return true;
     }
