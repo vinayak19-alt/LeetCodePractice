@@ -198,6 +198,7 @@
 | [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0958-sort-array-by-parity-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1880-largest-merge-of-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -217,6 +218,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1880-largest-merge-of-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1880-largest-merge-of-two-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String
 |  |
@@ -242,6 +244,7 @@
 | [1250-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1250-longest-common-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1880-largest-merge-of-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
