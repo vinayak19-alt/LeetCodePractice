@@ -1,12 +1,21 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder sb = new StringBuilder();
-        int n=0, m=0;
-        while(n<word1.length() && m<word2.length()){
-            sb.append(word1.charAt(n++)).append(word2.charAt(m++));
+        int i = 0, j = 0;
+        while(i < word1.length() && j < word2.length()){
+            sb.append(word1.charAt(i));
+            sb.append(word2.charAt(j));
+            i++;
+            j++;
         }
-        sb.append(word1.substring(m));
-        sb.append(word2.substring(n));
+        while(i < word1.length()){
+            sb.append(word1.charAt(i));
+            i++;
+        }
+        while(j < word2.length()){
+            sb.append(word2.charAt(j));
+            j++;
+        }
         return sb.toString();
     }
 }
