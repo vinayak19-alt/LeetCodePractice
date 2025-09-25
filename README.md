@@ -79,6 +79,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0958-sort-array-by-parity-ii) |
+| [0979-di-string-match](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0979-di-string-match) |
 | [1105-uncrossed-lines](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1105-uncrossed-lines) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -199,6 +200,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0958-sort-array-by-parity-ii) |
+| [0979-di-string-match](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0979-di-string-match) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1880-largest-merge-of-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
@@ -219,6 +221,7 @@
 | [0134-gas-station](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
+| [0979-di-string-match](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0979-di-string-match) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1880-largest-merge-of-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1880-largest-merge-of-two-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -243,6 +246,7 @@
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0841-shortest-distance-to-a-character](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
+| [0979-di-string-match](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1250-longest-common-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
