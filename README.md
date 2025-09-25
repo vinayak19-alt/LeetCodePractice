@@ -76,6 +76,7 @@
 | [0735-asteroid-collision](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [0841-shortest-distance-to-a-character](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0958-sort-array-by-parity-ii) |
 | [1105-uncrossed-lines](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1105-uncrossed-lines) |
@@ -195,6 +196,7 @@
 | [0556-next-greater-element-iii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0958-sort-array-by-parity-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -240,6 +242,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0841-shortest-distance-to-a-character](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1250-longest-common-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
