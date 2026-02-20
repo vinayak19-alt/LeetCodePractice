@@ -54,6 +54,7 @@
 | [0064-minimum-path-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,6 +159,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
@@ -266,6 +268,7 @@
 | [0039-combination-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 ## Simulation
