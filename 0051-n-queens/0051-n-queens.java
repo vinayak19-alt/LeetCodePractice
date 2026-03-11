@@ -7,37 +7,47 @@ class Solution {
                 board[i][j] = '.';
             }
         }
-        int[] leftRow = new int[n];
-        int[] upperDiagonal = new int[2*n-1];
-        int[] lowerDiagonal = new int[2*n-1];
-        solve(board, result, 0, leftRow, upperDiagonal, lowerDiagonal);
+        helper(result, board, 0);
         return result;
     }
-    public void solve(char[][] board, List<List<String>> result, int row, int[] leftRow, int[] upperDiagonal, int[] lowerDiagonal){
+    public void helper(List<List<String>> result, char[][] board, int row){
         if(row == board.length){
             result.add(addRow(board));
             return;
         }
         for(int col=0; col<board.length; col++){
-            if(leftRow[col] == 0 && upperDiagonal[board.length-1 + row - col] == 0
-                && lowerDiagonal[row+col] == 0){
+            if(isSafe(board, row, col)){
                 board[row][col] = 'Q';
-                leftRow[col] = 1;
-                upperDiagonal[board.length - 1 + row - col] = 1;
-                lowerDiagonal[row+col] = 1;
-                solve(board, result, row+1, leftRow, upperDiagonal, lowerDiagonal);
+                helper(result, board, row+1);
                 board[row][col] = '.';
-                leftRow[col] = 0;
-                upperDiagonal[board.length - 1 + row - col] = 0;
-                lowerDiagonal[row+col] = 0;
             }
         }
+    }
+    public boolean isSafe(char[][] board, int row, int col){
+        for(int i=0; i<row; i++){
+            if(board[i][col] == 'Q'){
+                return false;
+            }
+        }
+        int maxLeft = Math.min(row, col);
+        for(int i=1; i<=maxLeft; i++){
+            if(board[row-i][col-i] == 'Q'){
+                return false;
+            }
+        }
+        int maxRight = Math.min(row, board.length-col-1);
+        for(int i=1; i<=maxRight; i++){
+            if(board[row-i][col+i] == 'Q'){
+                return false;
+            }
+        }
+        return true;
     }
     public List<String> addRow(char[][] board){
         List<String> list = new ArrayList<>();
         for(int i=0; i<board.length; i++){
-            String str = new String(board[i]);
-            list.add(str);
+            String row = new String(board[i]);
+            list.add(row);
         }
         return list;
     }
