@@ -241,6 +241,7 @@
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -275,6 +276,7 @@
 | [0078-subsets](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
 ## Simulation
 |  |
@@ -299,6 +301,7 @@
 | [0072-edit-distance](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0494-target-sum) |
