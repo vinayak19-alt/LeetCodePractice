@@ -1,19 +1,20 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> list = new ArrayList<>();
-        helper(n, 0, 0, list, "");
-        return list;
+        List<String> result = new ArrayList<>();
+        helper(n, result, 0, 0, "");
+        return result;
     }
-    public void helper(int n, int left, int right, List<String> list, String s){
-        if(s.length() == n*2){
-            list.add(s);
+    public void helper(int n, List<String> list, int open, int close, String seq){
+        if(open == n && close == n){
+            list.add(seq);
             return;
         }
-        if(left < n){
-            helper(n, left+1, right, list, s+"(");
+        if(open < n){
+            helper(n, list, open+1, close, seq+"(");
         }
-        if(right < left){
-            helper(n, left, right+1, list, s+")");
+        
+        if(open > close){
+            helper(n, list, open, close+1, seq+")");
         }
     }
 }
