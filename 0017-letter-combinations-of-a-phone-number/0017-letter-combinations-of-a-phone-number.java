@@ -4,18 +4,17 @@ class Solution {
             List<String> list = new ArrayList<>();
             return list;
         }
-        List<String> ans = new ArrayList<>();
-        ans.addAll(helper("", digits));
-        return ans;
+        List<String> result = new ArrayList<>();
+        helper(digits, result, "");
+        return result;
     }
-    public List<String> helper(String p, String up){
-        if(up.isEmpty()){
-            List<String> list = new ArrayList<>();
-            list.add(p);
-            return list;
+    public void helper(String digits, List<String> result, String str){
+        if(digits.isEmpty()){
+            result.add(str);
+            return;
         }
-        int digit = up.charAt(0)-'0';
-        int i= (digit-2)*3;
+        int digit = digits.charAt(0) - '0';
+        int i = (digit-2)*3;
         if(digit > 7){
             i+=1;
         }
@@ -23,11 +22,9 @@ class Solution {
         if(digit == 7 || digit == 9){
             len+=1;
         }
-        List<String> ans = new ArrayList<>();
         for(; i<len; i++){
-            char ch = (char)('a'+i);
-            ans.addAll(helper(p+ch, up.substring(1)));
+            char ch = (char)('a' + i);
+            helper(digits.substring(1), result, str+ch);
         }
-        return ans;
     }
 }
