@@ -1,8 +1,8 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer> list = new ArrayList<>();
         int m = matrix[0].length-1;
         int n = matrix.length-1;
+        List<Integer> list = new ArrayList<>();
         for(int i=0; i<matrix.length; i++){
             for(int j=i; j<=m; j++){
                 list.add(matrix[i][j]);
@@ -22,7 +22,7 @@ class Solution {
             }
             m--;
             n--;
-            if(m < i+1 || n < i+1) break;;
+            if(n < i+1 || m < i+1) break;
         }
         return list;
     }
