@@ -4,7 +4,7 @@ class Solution {
         map.put(0,1);
         int total=0, count=0;
         for(int n : nums){
-            total+=n;
+            total += n;
             if(map.containsKey(total-k)){
                 count += map.get(total-k);
             }
