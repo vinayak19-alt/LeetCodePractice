@@ -61,6 +61,7 @@
 | [0079-word-search](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0134-gas-station) |
@@ -303,6 +304,7 @@
 | [0064-minimum-path-sum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0279-perfect-squares) |
