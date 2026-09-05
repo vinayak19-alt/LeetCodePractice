@@ -178,6 +178,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1880-largest-merge-of-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2128-reverse-prefix-of-word](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
@@ -348,6 +350,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Stack
 |  |
 | ------- |
@@ -404,6 +407,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Monotonic Queue
 |  |
 | ------- |
