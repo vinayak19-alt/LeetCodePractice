@@ -71,6 +71,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0283-move-zeroes) |
@@ -365,6 +366,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -374,6 +376,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -400,4 +403,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
