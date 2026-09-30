@@ -4,16 +4,16 @@ class Solution {
         if(digits.isEmpty()){
             return list;
         }
-        helper("", digits, list);
+        helper("", digits, list, 0);
         return list;
     }
 
-    private void helper(String p, String up, List<String> list){
-        if(up.isEmpty()){
+    private void helper(String p, String up, List<String> list, int index){
+        if(index == up.length()){
             list.add(p);
             return;
         }
-        int digit = up.charAt(0) - '0';
+        int digit = up.charAt(index) - '0';
         int i = 3*(digit-2);
         if(digit > 7) i+=1;
         int len = i+3;
@@ -21,7 +21,7 @@ class Solution {
 
         for(; i<len; i++){
             char ch = (char)('a'+i);
-            helper(p+ch, up.substring(1), list);
+            helper(p+ch, up, list, index+1);
         }
     }
 }
