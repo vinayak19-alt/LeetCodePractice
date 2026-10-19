@@ -261,6 +261,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0841-shortest-distance-to-a-character](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0979-di-string-match) |
+| [1143-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1250-longest-common-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -319,6 +320,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [1105-uncrossed-lines](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1105-uncrossed-lines) |
+| [1143-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -416,4 +418,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vinayak19-alt/LeetCodePractice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
